@@ -1,6 +1,6 @@
-- @Seasonalsky here! I'm an Information Systems student who's graduating in 2021! 👋  
+- @Seasonalsky here! I'm a Computer Science and Design graduate looking for any full time opportunities! 👋  
 - I’m interested in creating beautiful and intuitive interfaces that boast a smooth user experience.  
-- Other than UI/UX design, I’m currently learning React Native and strengthening my Javascript skills!  
+- Other than UI/UX design, I’m currently learning React and strengthening my Javascript skills!  
 
 <!---- 👋 Hi, I’m @Seasonalsky
 - 👀 I’m interested in ...
